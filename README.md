@@ -1,4 +1,7 @@
 # SepStero
+### <center> Left Image(Top: Gug2021(record with two HikiRobot cameras); Bottom: KITTI Public Benchmark)  </center>
+![image](https://github.com/Zhaohuai-L/SepStero/blob/main/Demo/Cug_left.gif)
+![image](https://github.com/Zhaohuai-L/SepStero/blob/main/Demo/Kitti_left.gif)
 ### <center> Unsupervised GwcNet ( GwcNet-U)  </center>
 ![image](https://github.com/Zhaohuai-L/SepStero/blob/main/Demo/GwcNet-U.gif)![image](https://github.com/Zhaohuai-L/SepStero/blob/main/Demo/GwcNet-U-KITTI.gif)
 ### <center> PASMNet  </center>
