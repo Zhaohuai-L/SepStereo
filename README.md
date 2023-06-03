@@ -1,5 +1,5 @@
 # SepStero
-The code will be available
+The code will be available.
 ### <center> Left Image </center>
 Top: Gug2021(record with two HikiRobot cameras); Bottom: KITTI Public Benchmark
 ![image](https://github.com/Zhaohuai-L/SepStero/blob/main/Demo/Cug_left.gif)
